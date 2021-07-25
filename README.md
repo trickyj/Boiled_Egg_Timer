@@ -1,4 +1,4 @@
-<a href="www.ampli5.me"><img src="./Screenshots/github_banner.png" height="250" width="850"></a>
+<a href="www.ampli5.me"><img src="/Documentation/github_banner.png" height="250" width="850"></a>
 
 # Boiled egg timer app
 
@@ -26,16 +26,8 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 
 > App Demo video on youtube [https://youtu.be/UuvXcZdaIZI]
 
-> This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
-## Completed App
-
-![Gif Capture](Documentation/Xylophone.gif)
-
 Blog ScrollUnlock :point_right: https://scrollunlock.wordpress.com
 
 by Ampli5 :point_right: http://ampli5.me
 
-### powered by ![End Banner](Screenshots/logo.png)
+### powered by ![End Banner](/Documentation/logo.png)
