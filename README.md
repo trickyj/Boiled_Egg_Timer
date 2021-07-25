@@ -1,6 +1,6 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<a href="www.ampli5.me"><img src="./Screenshots/github_banner.png" height="250" width="850"></a>
 
-# Xylophone
+# Boiled egg timer app
 
 ## Our Goal
 
@@ -33,3 +33,9 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 ## Completed App
 
 ![Gif Capture](Documentation/Xylophone.gif)
+
+Blog ScrollUnlock :point_right: https://scrollunlock.wordpress.com
+
+by Ampli5 :point_right: http://ampli5.me
+
+### powered by ![End Banner](Screenshots/logo.png)
